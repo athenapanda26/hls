@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Generic",
+    "url": "https://mpd-himelop.pages.dev/api.json"
+  },
+  {
+    "name": "Tapmad",
+    "url": "https://tap.spown.workers.dev/api"
+  }
+]
